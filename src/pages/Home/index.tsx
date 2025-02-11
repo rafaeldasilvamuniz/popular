@@ -100,7 +100,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Real com Espinafre: Espinafre com mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Real com Espinafre',
-      infos: ['10%', 'R$ 30,00'],
+      infos: ['10%', 'R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -120,7 +120,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Real com Espinafre: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Bauru com tomate',
-      infos: ['5%', 'R$ 30,00'],
+      infos: ['5%', 'R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -140,7 +140,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Azeitona Mista: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Azeitona Mista',
-      infos: ['10%', 'R$ 30,00'],
+      infos: ['10%', 'R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -160,7 +160,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Aipim com tomate seco: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Aipim com Tomate Seco',
-      infos: ['10%', 'R$ 30,00'],
+      infos: ['10%', 'R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -183,7 +183,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Frango com Catupiry: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Frango com Catupiry',
-      infos: ['R$ 30,00'],
+      infos: ['R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -203,7 +203,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Marguerita: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Marguerita',
-      infos: ['R$ 30,00'],
+      infos: ['R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -223,7 +223,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Pizza de Aipim com salada: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Aipim com Salada',
-      infos: ['R$ 30,00'],
+      infos: ['R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton
@@ -243,7 +243,7 @@ const Home = ({ pasta }: Props) => {
       description:
         'A clássica Dez Queijos: molho de tomate suculento, mussarela derretida, manjericão fresco e um toque de azeite. Sabor e simplicidade!',
       title: 'Dez Queijos',
-      infos: ['R$ 30,00'],
+      infos: ['R$ 20,00'],
       image: pizza,
       button: (
         <S.TabButton

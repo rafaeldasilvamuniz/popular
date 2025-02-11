@@ -24,11 +24,7 @@ const Footer = () => (
     <br />
     <br />
     <div className="container">
-      <Divtxt>
-        A efood é uma plataforma para divulgação de estabelecimentos, a
-        responsabilidade pela entrega, qualidade dos produtos é toda do
-        estabelecimento contratado.
-      </Divtxt>
+      <Divtxt>@Página da Pizzaria Popular</Divtxt>
     </div>
   </Container>
 )

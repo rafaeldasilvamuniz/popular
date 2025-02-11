@@ -36,7 +36,7 @@ const Cart = () => {
 
   //const Home = ({ pasta }: Props) => {
 
-  const valor = 30
+  const valor = 20
   const result = items.length * valor
 
   const getTotalQtd = (items: Pasta[]) => {
@@ -78,8 +78,8 @@ const Cart = () => {
           </>
         ) : (
           <p className="empty-text">
-            O carrinho está vazio, adicione pelo menos um produto para continuar
-            com a compra
+            O carrinho está vazio, adicione pelo menos uma pizza para
+            continuar...
           </p>
         )}
       </S.Sidebar>

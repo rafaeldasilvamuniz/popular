@@ -123,13 +123,13 @@ export const Divtxt = styled.div`
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   display: flex;
-  margin-left: 37%;
+  margin-left: 46%;
   color: ${cores.salmao};
 
 
     @media (max-width: ${breakpoints.tablet}) {
       grid-template-columns: 1fr;
-      margin-left: 0%;
+      margin-left: 35%;
     }
   }
 `
