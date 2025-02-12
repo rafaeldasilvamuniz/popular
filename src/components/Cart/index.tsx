@@ -36,7 +36,7 @@ const Cart = () => {
 
   //const Home = ({ pasta }: Props) => {
 
-  const valor = 20
+  const valor = 1
   const result = items.length * valor
 
   const getTotalQtd = (items: Pasta[]) => {
